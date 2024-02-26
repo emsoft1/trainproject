@@ -1,0 +1,6 @@
+
+pygame
+streamlit
+streamlit-drawable-canvas
+Pillow  # Required for image processing in Streamlit
+numpy  # Might be used for numerical operations in the simulation
